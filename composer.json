@@ -1,0 +1,28 @@
+{
+  "description": "Blank PHP library repository",
+  "name": "phphouse/blank-php-library-repositry",
+  "autoload": {
+    "psr-4": {
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+    }
+  },
+  "include-path": [],
+  "prefer-stable": true,
+  "minimum-stability": "dev",
+  "require": {
+  },
+  "require-dev": {
+  },
+  "scripts": {},
+  "config": {
+    "platform": {
+      "php": "8.1.0 || 8.2.0"
+    },
+    "process-timeout": 0,
+    "sort-packages": true,
+    "allow-plugins": {}
+  }
+}
